@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Танковый фронт: Алгебраический прорыв",
+  "short_name": "Танковый фронт",
+  "description": "Учебная LEGO-кампания по алгебре для смартфона.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#18231e",
+  "theme_color": "#18231e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
